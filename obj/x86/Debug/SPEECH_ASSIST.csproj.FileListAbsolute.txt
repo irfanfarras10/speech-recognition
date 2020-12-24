@@ -1,0 +1,14 @@
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\bin\Debug\SPEECH_ASSIST.exe
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\bin\Debug\SPEECH_ASSIST.pdb
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.frmLogin.resources
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.frmLoading.resources
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.Properties.Resources.resources
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.csproj.GenerateResource.Cache
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.exe
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.pdb
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.csprojResolveAssemblyReference.cache
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.frmRegister.resources
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.frmMain.resources
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\bin\Debug\Interop.Shell32.dll
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\Irfan Farras\OneDrive - Bina Nusantara University\Semester 3\02_Artificial Intelligence\Project\BETA\SPEECH VIRTUAL ASSITANT\SPEECH_ASSIST\SPEECH_ASSIST\obj\x86\Debug\SPEECH_ASSIST.csproj.ResolveComReference.cache
